@@ -1,0 +1,2 @@
+First, the README.txt file said "You will be reusing this repository soon...".
+It was then updated to say "The six oclock alarm would never ring...". The text was then updated to say "You will be using this repository soon...". Then an image (smiley.svg) was added. Then the smiley image was removed and omgfdogs.gif and omfgdogs.mp3 were added to the assets directory. Then the text in README was changed to "OMFGDOGS!"
